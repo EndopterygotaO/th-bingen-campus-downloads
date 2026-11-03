@@ -1,0 +1,1993 @@
+[
+  {
+    "room_id": "1-139",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "1-143a",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "1-143b",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "1-144",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "1-145",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "1-312",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "1-313",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "1-314",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "1-315",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L1-114",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "1-114"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L1-202",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "1-202"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L1-203",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "1-203"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L1-205",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "1-205"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L1-206",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "1-206"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L1-303",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "1-303"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L1-305",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "1-305"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L1-311",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "1-311"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "R1-236",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "1-236"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "R1-237",
+    "campus_id": "Gebaeude_1",
+    "building_number": 1,
+    "building_name": "Gebäude 1",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "1-237"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "2-107",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "2-123",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "2-137a",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "2-137b",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "2-138",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "2-139",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "2-301",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "2-302",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "2-303",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L2-204",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "2-204"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L2-228",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "2-228"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L2-235",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "2-235"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L2-238",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "2-238"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L2-309",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "2-309"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L2-312",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "2-312"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L2-315",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "2-315"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L2-316",
+    "campus_id": "Gebaeude_2",
+    "building_number": 2,
+    "building_name": "Gebäude 2",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "2-316"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L3-102",
+    "campus_id": "Gebaeude_3",
+    "building_number": 3,
+    "building_name": "Gebäude 3",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "3-102"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L3-105",
+    "campus_id": "Gebaeude_3",
+    "building_number": 3,
+    "building_name": "Gebäude 3",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "3-105"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L3-107",
+    "campus_id": "Gebaeude_3",
+    "building_number": 3,
+    "building_name": "Gebäude 3",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "3-107"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L3-110",
+    "campus_id": "Gebaeude_3",
+    "building_number": 3,
+    "building_name": "Gebäude 3",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "3-110"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L3-115",
+    "campus_id": "Gebaeude_3",
+    "building_number": 3,
+    "building_name": "Gebäude 3",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "3-115"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L3-120",
+    "campus_id": "Gebaeude_3",
+    "building_number": 3,
+    "building_name": "Gebäude 3",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "3-120"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L3-128",
+    "campus_id": "Gebaeude_3",
+    "building_number": 3,
+    "building_name": "Gebäude 3",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "3-128"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L3-131",
+    "campus_id": "Gebaeude_3",
+    "building_number": 3,
+    "building_name": "Gebäude 3",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "3-131"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L3-160",
+    "campus_id": "Gebaeude_3",
+    "building_number": 3,
+    "building_name": "Gebäude 3",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "3-160"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L3-167",
+    "campus_id": "Gebaeude_3",
+    "building_number": 3,
+    "building_name": "Gebäude 3",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "3-167"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L3-210",
+    "campus_id": "Gebaeude_3",
+    "building_number": 3,
+    "building_name": "Gebäude 3",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "3-210"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "5-101",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-101",
+      "L5-101"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-102",
+    "campus_id": "Gebaeude_M",
+    "building_number": 5,
+    "building_name": "Gebäude M (Mensa)",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": "Mensa",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-102",
+      "L5-102",
+      "Mensa",
+      "Kantine"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-103",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-103",
+      "L5-103"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-104",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-104",
+      "L5-104"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-105",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-105",
+      "L5-105"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-106",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": "Küche",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-106",
+      "L5-106",
+      "Küche",
+      "Mensa Küche"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-107",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-107",
+      "L5-107"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-108",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-108",
+      "L5-108"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-109",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-109",
+      "L5-109"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-112",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-112",
+      "L5-112"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-130",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-130",
+      "L5-130"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-131",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": "Empfang",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-131",
+      "L5-131",
+      "Empfang"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-133",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-133",
+      "L5-133"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-134",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-134",
+      "L5-134"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-136",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-136",
+      "L5-136"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-138",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-138",
+      "L5-138"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-139",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-139",
+      "L5-139"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-140",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-140",
+      "L5-140"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-141",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-141",
+      "L5-141"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-142",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-142",
+      "L5-142"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-143",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-143",
+      "L5-143"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-144",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-144",
+      "L5-144"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-146",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-146",
+      "L5-146"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-148",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-148",
+      "L5-148"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-201",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": "Bibliothek",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-201",
+      "L5-201",
+      "Bibliothek",
+      "Hochschulbibliothek",
+      "Bib"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-202",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-202",
+      "L5-202"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-203",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-203",
+      "L5-203"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-205",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-205",
+      "L5-205"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-206",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-206",
+      "L5-206"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-207",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-207",
+      "L5-207"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-208",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-208",
+      "L5-208"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-230",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-230",
+      "L5-230"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-231",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-231",
+      "L5-231"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-233",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-233",
+      "L5-233"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-235",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-235",
+      "L5-235"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-236",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-236",
+      "L5-236"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-237",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-237",
+      "L5-237"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-238",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-238",
+      "L5-238"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-239",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-239",
+      "L5-239"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-240",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-240",
+      "L5-240"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-241",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-241",
+      "L5-241"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-242",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-242",
+      "L5-242"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-243",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-243",
+      "L5-243"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-301",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-301",
+      "L5-301"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-302",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-302",
+      "L5-302"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-303",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-303",
+      "L5-303"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-304",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-304",
+      "L5-304"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-305",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-305",
+      "L5-305"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-306",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-306",
+      "L5-306"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-307",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-307",
+      "L5-307"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-309",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-309",
+      "L5-309"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-311",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-311",
+      "L5-311"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-313",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-313",
+      "L5-313"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-315",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-315",
+      "L5-315"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-317",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-317",
+      "L5-317"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-319",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-319",
+      "L5-319"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-321",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-321",
+      "L5-321"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-330",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-330",
+      "L5-330"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-331",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "5-331",
+      "R5-331",
+      "L5-331"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-333",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "5-333",
+      "R5-333",
+      "L5-333"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-335",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-335",
+      "L5-335"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-336",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-336",
+      "L5-336"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-338",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-338",
+      "L5-338"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-342",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-342",
+      "L5-342"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-344",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": null,
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-344",
+      "L5-344"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-513",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 0,
+    "floor_name": "Erdgeschoss",
+    "name": "Treppenraum Erdgeschoss",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-513",
+      "L5-513",
+      "Treppenraum Erdgeschoss"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-523",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 1,
+    "floor_name": "1. Obergeschoss",
+    "name": "Treppenraum 1. Obergeschoss",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-523",
+      "L5-523",
+      "Treppenraum 1. Obergeschoss"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "5-533",
+    "campus_id": "Gebaeude_5",
+    "building_number": 5,
+    "building_name": "Gebäude 5",
+    "floor": 2,
+    "floor_name": "2. Obergeschoss",
+    "name": "Treppenraum 2. Obergeschoss",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "R5-533",
+      "L5-533",
+      "Treppenraum 2. Obergeschoss"
+    ],
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172449.jpg",
+    "mapping_basis": "photographed_floor_plan; Mensa uses user-confirmed ArcGIS ID Gebaeude_M",
+    "mapping_status": "confirmed_from_plan",
+    "arcgis_id_verified": true
+  },
+  {
+    "room_id": "8-0.02",
+    "campus_id": "Gebaeude_8",
+    "building_number": 8,
+    "building_name": "Gebäude 8",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "8-0.03",
+    "campus_id": "Gebaeude_8",
+    "building_number": 8,
+    "building_name": "Gebäude 8",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "8-0.05",
+    "campus_id": "Gebaeude_8",
+    "building_number": 8,
+    "building_name": "Gebäude 8",
+    "site": "campus_buedesheim",
+    "aliases": [],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "inferred_from_numbering_convention",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "L11-109",
+    "campus_id": "Gebaeude_11",
+    "building_number": 11,
+    "building_name": "Gebäude 11",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "11-109"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "needs_review",
+    "arcgis_id_verified": false
+  },
+  {
+    "room_id": "R11-201",
+    "campus_id": "Gebaeude_11",
+    "building_number": 11,
+    "building_name": "Gebäude 11",
+    "site": "campus_buedesheim",
+    "aliases": [
+      "11-201"
+    ],
+    "source_id": "deincampusplan_room_directory",
+    "mapping_basis": "building_number_from_room_code",
+    "mapping_status": "needs_review",
+    "arcgis_id_verified": false
+  }
+]

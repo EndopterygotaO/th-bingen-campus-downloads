@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#173e37" />
+    <title>TH Bingen · Campus finden</title>
+    <meta name="description" content="Gebäude und Räume am Campus der TH Bingen finden. Studentischer Prototyp." />
+  </head>
+  <body>
+    <div id="app">
+      <aside class="sidebar" aria-label="Campussuche" data-i18n-aria="Campussuche">
+        <header class="brand"><span class="brand-mark" aria-hidden="true">TH</span><div><strong>Campus finden</strong><span>TH Bingen · Büdesheim</span></div><span class="prototype" data-i18n="Prototyp">Prototyp</span><button id="settings-open" class="map-button" aria-label="Einstellungen öffnen" data-i18n-aria="Einstellungen öffnen">⚙</button></header>
+        <section class="search-panel">
+          <p class="eyebrow" data-i18n="DEIN WEG ZUM GEBÄUDE">DEIN WEG ZUM GEBÄUDE</p>
+          <h1 data-i18n="Wo musst du hin?">Wo musst du hin?</h1>
+          <form id="search-form" role="search">
+            <label for="search" data-i18n="Raum, Gebäude oder Einrichtung">Raum, Gebäude oder Einrichtung</label>
+            <div class="search-row"><input id="search" name="search" type="search" placeholder="z. B. Mensa, Rechenzentrum, 1-203" data-i18n-placeholder="z. B. Mensa, Rechenzentrum, 1-203" autocomplete="off" maxlength="100" aria-describedby="search-hint" /><button type="submit" data-i18n="Suchen">Suchen</button></div>
+            <p id="search-hint" class="hint" data-i18n="Auch RZ, Bibliothek, L1-203 und Gebaeude_8 werden erkannt.">Auch RZ, Bibliothek, L1-203 und Gebaeude_8 werden erkannt.</p>
+          </form>
+          <div id="search-status" class="notice" role="status" aria-live="polite" data-i18n="Raumverzeichnis wird geladen …">Raumverzeichnis wird geladen …</div>
+        </section>
+        <footer class="sidebar-footer"><span class="status-dot" aria-hidden="true"></span><span data-i18n="3D-Campus · Raumsuche bis zum Gebäude">3D-Campus · Raumsuche bis zum Gebäude</span><details><summary data-i18n="Daten &amp; Hinweise">Daten & Hinweise</summary><p><span data-i18n="Studentischer Prototyp, kein offizieller Orientierungsdienst. Raumliste:">Studentischer Prototyp, kein offizieller Orientierungsdienst. Raumliste:</span> <a href="https://www.deincampusplan.de/raumliste/th-bingen/" target="_blank" rel="noopener noreferrer">DeinCampusPlan</a>, <span data-i18n="Stand 25.10.2026. Nicht vollständig. Gebäude 0 liegt am separaten Stadtstandort. Einzelne Raumzuordnungen müssen noch geprüft werden. Gebäudedaten: GeoBasis-DE / LVermGeoRP, dl-de/by-2-0; Daten bearbeitet.">Stand 25.10.2026. Nicht vollständig. Gebäude 0 liegt am separaten Stadtstandort. Einzelne Raumzuordnungen müssen noch geprüft werden. Gebäudedaten: GeoBasis-DE / LVermGeoRP, dl-de/by-2-0; Daten bearbeitet.</span></p></details></footer>
+      </aside>
+      <main class="map-area" aria-label="3D-Campuskarte" data-i18n-aria="3D-Campuskarte">
+        <div id="scene-container"></div>
+        <div class="map-topbar"><span class="map-label">BÜDESHEIM <span>3D-Campus</span></span><button id="overview" class="map-button" disabled data-i18n="↗ Campusübersicht">↗ Campusübersicht</button></div>
+        <button id="locate" class="map-button locate-button" disabled data-i18n="Mein Standort">Mein Standort</button>
+        <button id="basemap-toggle" class="map-button basemap-toggle" disabled aria-pressed="false" aria-label="Bilddaten anzeigen">Bilddaten</button>
+        <section id="access-panel" class="access-panel" hidden>
+          <h2 data-i18n="Campus konnte nicht geladen werden">Campus konnte nicht geladen werden</h2><p id="load-error" data-i18n="Bitte die Internetverbindung prüfen und erneut versuchen.">Bitte die Internetverbindung prüfen und erneut versuchen.</p>
+          <button id="public-load" data-i18n="Erneut laden">Erneut laden</button>
+        </section>
+        <div id="map-status" class="map-status" role="status" aria-live="polite" data-i18n="Campus wird geladen …">Campus wird geladen …</div>
+      </main>
+      <section id="results" class="results" aria-label="Suchergebnisse" data-i18n-aria="Suchergebnisse"></section>
+    </div>
+    <dialog id="settings-panel" aria-labelledby="settings-title">
+      <header class="settings-header"><h2 id="settings-title" data-i18n="Einstellungen">Einstellungen</h2><button id="settings-close" aria-label="Einstellungen schließen" data-i18n-aria="Einstellungen schließen">✕</button></header>
+      <label for="language" data-i18n="Sprache">Sprache</label><select id="language"><option value="de">DE · Deutsch</option><option value="en">ENG · English</option><option value="fr">FR · Français</option></select>
+      <label for="theme" data-i18n="Darstellung">Darstellung</label><select id="theme"><option value="system" data-i18n="Wie auf dem Gerät">Wie auf dem Gerät</option><option value="light" data-i18n="Hell">Hell</option><option value="dark" data-i18n="Dunkel">Dunkel</option></select>
+      <h3 data-i18n="App aktualisieren">App aktualisieren</h3><p id="app-version"></p>
+      <button id="update" data-i18n="Update suchen">Update suchen</button><p id="update-status" class="hint" role="status" aria-live="polite"></p>
+      <p class="hint" data-i18n="Android fragt vor der Installation nach deiner Bestätigung. Bei der ersten Aktualisierung musst du Installationen aus dieser App erlauben.">Android fragt vor der Installation nach deiner Bestätigung. Bei der ersten Aktualisierung musst du Installationen aus dieser App erlauben.</p>
+    </dialog>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
+

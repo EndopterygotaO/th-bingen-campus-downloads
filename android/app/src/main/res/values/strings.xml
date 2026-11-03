@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Campus finden</string>
+    <string name="title_activity_main">Campus finden</string>
+    <string name="package_name">de.thbingen.campus</string>
+    <string name="custom_url_scheme">de.thbingen.campus</string>
+</resources>

@@ -1,0 +1,151 @@
+[
+  {
+    "id": "mensa",
+    "name": "Mensa",
+    "campus_id": "Gebaeude_M",
+    "building_name": "Gebäude M",
+    "aliases": [
+      "Mensa Bingen",
+      "Mensa Büdesheim",
+      "Mensa Buedesheim",
+      "Campus Mensa",
+      "Kantine",
+      "5-102",
+      "R5-102",
+      "L5-102",
+      "Cafeteria",
+      "Cafétéria",
+      "Canteen",
+      "Dining hall"
+    ],
+    "description": "Mensa · Raum 5-102 · Erdgeschoss.",
+    "source_url": "https://asta-bingen.de/faq/",
+    "checked_on": "2026-10-27",
+    "mapping_source": "Gebäude-ID vom Projektverantwortlichen bestätigt am 25.10.2026.",
+    "room_id": "5-102",
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_141359.jpg",
+    "translations": {
+      "en": "Cafeteria · Room 5-102 · Ground floor.",
+      "fr": "Cafétéria · Salle 5-102 · Rez-de-chaussée."
+    }
+  },
+  {
+    "id": "rechenzentrum",
+    "name": "Rechenzentrum",
+    "campus_id": "Gebaeude_11",
+    "building_name": "Gebäude 11",
+    "aliases": [
+      "RZ",
+      "IT Support",
+      "IT-Support",
+      "IT Helpdesk",
+      "Rechen Zentrum",
+      "IT centre",
+      "IT center",
+      "Computer centre",
+      "Computer center",
+      "Centre informatique"
+    ],
+    "description": "Rechenzentrum der TH Bingen in Gebäude 11.",
+    "source_url": "https://www.th-bingen.de/kontakt",
+    "checked_on": "2026-10-25",
+    "translations": {
+      "en": "TH Bingen IT centre in building 11.",
+      "fr": "Centre informatique de la TH Bingen, bâtiment 11."
+    }
+  },
+  {
+    "id": "bibliothek",
+    "name": "Bibliothek",
+    "campus_id": "Gebaeude_5",
+    "building_name": "Gebäude 5",
+    "aliases": [
+      "Bib",
+      "Bücherei",
+      "Buecherei",
+      "Hochschulbibliothek",
+      "Library",
+      "5-201",
+      "R5-201",
+      "L5-201",
+      "Bibliothèque",
+      "Bibliotheque"
+    ],
+    "description": "Bibliothek · Raum 5-201 · 1. Obergeschoss.",
+    "source_url": "https://www.th-bingen.de/kontakt",
+    "checked_on": "2026-10-27",
+    "room_id": "5-201",
+    "source_id": "user_floor_plan_20261026",
+    "source_image": "IMG_20261026_172355.jpg",
+    "translations": {
+      "en": "Library · Room 5-201 · 1st floor.",
+      "fr": "Bibliothèque · Salle 5-201 · 1er étage."
+    }
+  },
+  {
+    "id": "studierendensekretariat",
+    "name": "Studierendensekretariat",
+    "campus_id": "Gebaeude_5",
+    "building_name": "Gebäude 5",
+    "aliases": [
+      "Studierendensekretariat",
+      "Studentensekretariat",
+      "Studierenden Sekretariat",
+      "Studierendensekretariat Bingen",
+      "Student administration",
+      "Student office",
+      "Scolarité",
+      "Scolarite"
+    ],
+    "description": "Studierendensekretariat: Gebäude 5, Raum 321. Die Karte markiert das Gebäude.",
+    "source_url": "https://www.th-bingen.de/kontakt",
+    "checked_on": "2026-10-25",
+    "translations": {
+      "en": "Student administration · Building 5, room 321.",
+      "fr": "Scolarité · Bâtiment 5, salle 321."
+    }
+  },
+  {
+    "id": "studienberatung",
+    "name": "Zentrale Studienberatung",
+    "campus_id": "Gebaeude_5",
+    "building_name": "Gebäude 5",
+    "aliases": [
+      "Studienberatung",
+      "ZSB",
+      "Studien Beratung",
+      "Student advice",
+      "Student advice service",
+      "Service orientation",
+      "Service d’orientation"
+    ],
+    "description": "Zentrale Studienberatung: Gebäude 5, Raum 317. Die Karte markiert das Gebäude.",
+    "source_url": "https://www.th-bingen.de/kontakt",
+    "checked_on": "2026-10-25",
+    "translations": {
+      "en": "Student advice service · Building 5, room 317.",
+      "fr": "Service d’orientation · Bâtiment 5, salle 317."
+    }
+  },
+  {
+    "id": "international-office",
+    "name": "International Office",
+    "campus_id": "Gebaeude_5",
+    "building_name": "Gebäude 5",
+    "aliases": [
+      "Internationales Büro",
+      "Internationales Buero",
+      "Auslandsamt",
+      "International Office Bingen",
+      "Bureau des relations internationales"
+    ],
+    "description": "International Office: Gebäude 5, Raum 319. Die Karte markiert das Gebäude.",
+    "source_url": "https://www.th-bingen.de/kontakt",
+    "checked_on": "2026-10-25",
+    "translations": {
+      "en": "International Office · Building 5, room 319.",
+      "fr": "Bureau des relations internationales · Bâtiment 5, salle 319."
+    }
+  }
+]
