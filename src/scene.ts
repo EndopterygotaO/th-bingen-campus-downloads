@@ -156,7 +156,13 @@ export async function createCampusMap(container: HTMLElement, status: (message: 
     return {
       async locate() {
         const current = resetSelection();
-        const position = await Geolocation.getCurrentPosition({ enableHighAccuracy: true, timeout: 20000, maximumAge: 0 });
+        // Browser permission prompts may not count toward the API's timeout.
+        // Bound the whole request so the button always becomes usable again.
+        const position = await new Promise<Awaited<ReturnType<typeof Geolocation.getCurrentPosition>>>((resolve, reject) => {
+          const timer = window.setTimeout(() => reject(new Error('Location request timed out')), 30000);
+          Geolocation.getCurrentPosition({ enableHighAccuracy: true, timeout: 20000, maximumAge: 0 })
+            .then(resolve, reject).finally(() => window.clearTimeout(timer));
+        });
         if (destroyed || current !== sequence) return;
         const { latitude, longitude, accuracy } = position.coords;
         if (![latitude, longitude, accuracy].every(Number.isFinite) || accuracy < 0) throw new Error('Invalid location');
